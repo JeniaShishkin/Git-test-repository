@@ -62,3 +62,5 @@ std::ostream& operator<<(std::ostream& , const ExamDetails& exam){
     endl << "Duration" << exam.duration << endl << "Zoom Link:" << exam.link << endl; 
 }
 }
+
+//This is the project of Lidor. 
