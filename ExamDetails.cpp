@@ -62,3 +62,6 @@ std::ostream& operator<<(std::ostream& , const ExamDetails& exam){
     endl << "Duration" << exam.duration << endl << "Zoom Link:" << exam.link << endl; 
 }
 }
+
+
+//this is Alex's change.
